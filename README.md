@@ -4,6 +4,11 @@ Welcome to my little corner where I document my solutions and thoughts for the *
 
 This repo is all about learning, growing, and making SQL practice feel graceful and enjoyable ✨  
 
+![Repo Size](https://img.shields.io/github/repo-size/AsmaaSaci/leetcode-sql-50)
+![Top Language](https://img.shields.io/github/languages/top/AsmaaSaci/leetcode-sql-50)
+![Open Issues](https://img.shields.io/github/issues/AsmaaSaci/leetcode-sql-50)
+![License](https://img.shields.io/github/license/AsmaaSaci/leetcode-sql-50)
+
 ---
 
 ## 💻 What’s Inside
